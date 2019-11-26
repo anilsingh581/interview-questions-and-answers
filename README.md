@@ -1,6 +1,6 @@
 # Awesome Programming  Language Interviews
 
-> A curated list of lists of technical interview questions.
+> A best list of lists of technical interview questions and answers.
 
 [What makes for an awesome list?](awesome.md)
 
