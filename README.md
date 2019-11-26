@@ -1,4 +1,4 @@
-# Awesome Programing Language Interviews
+# Awesome Programming  Language Interviews
 
 > A curated list of lists of technical interview questions.
 
